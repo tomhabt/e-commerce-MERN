@@ -5,6 +5,7 @@ Note: Not refactored
 ![Screenshot](https://user-images.githubusercontent.com/84083304/138557330-49dbf078-4db6-4278-8934-e68520952094.png)
 
 Repository link:https://github.com/tomhabt/e-commerce-MERN.git
+Application Link: https://tom-shop-shop.herokuapp.com/
 
 ## Description
 
@@ -41,7 +42,7 @@ npm start
 
 ## Usage
 
-To use the app please view the following link: comig soon...
+To use the app please view the following link: https://tom-shop-shop.herokuapp.com/
 ## License
     
 Licensed for use with the [MIT license](./LICENSE).
