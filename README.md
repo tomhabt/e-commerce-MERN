@@ -2,6 +2,8 @@
 Note: Not refactored
 * Copyright to Trilogy Education Services *
 
+![Screenshot](https://user-images.githubusercontent.com/84083304/138557330-49dbf078-4db6-4278-8934-e68520952094.png)
+
 Repository link:https://github.com/tomhabt/e-commerce-MERN.git
 
 ## Description
