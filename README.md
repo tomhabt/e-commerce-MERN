@@ -6,7 +6,8 @@ Repository link:https://github.com/tomhabt/e-commerce-MERN.git
 
 ## Description
 
-As you know, e-commerce is a huge part of the web development landscape. This module will introduce you to several important e-commerce concepts and technologies while also building on concepts you already know. Working with an existing codebase, you'll implement a state management approach that's been popularized by the JavaScript library Redux. We won't use the actual Redux library, but we will learn the underlying principles and functionality that make it such a widely used solution. And we'll do so using tools that are already built into React. Along the way, we'll add offline capabilities with IndexedDB as well as the ability to handle secure online payments with a service called Stripe.
+As you know, e-commerce is a huge part of the web development landscape. This project will introduce  several important e-commerce concepts and technologies while also building on concepts of MERN application.
+This project can demonstrate how the state condition is met in every and each component and page. It has a future development plan to have a payment collection sysytem and shopping cart. If you get a repo under my github by shop - shop, that is the refactored version of this project with having a shopping cart with strip payment method and code is made to manage state in global state.
 
 ## Table of Contents
 
